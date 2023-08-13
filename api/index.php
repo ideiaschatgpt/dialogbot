@@ -176,7 +176,7 @@ h2 {
 }
 
 .chat-container {
-	background: url('api/2.png');
+	background: url('https://raw.githubusercontent.com/ideiaschatgpt/dialogbot/main/api/body.jpg');
 	border-radius: 25px;
 	box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.7);
 	overflow: hidden;
@@ -295,7 +295,7 @@ footer a {
     </div>
     <div style="margin-bottom: 10px;">
         <label for="imgfundo" style="margin-right: 10px;">Imagem do Fundo:</label>
-        <input type="text" id="imgfundo" placeholder="Coloque a URL da Imagem Aqui" value="api/01.jpg" style="padding: 5px; width: 400px;">
+        <input type="text" id="imgfundo" placeholder="Coloque a URL da Imagem Aqui" value="https://raw.githubusercontent.com/ideiaschatgpt/dialogbot/main/api/01.jpg" style="padding: 5px; width: 400px;">
     </div>
     <textarea id="conversa" cols="75" rows="10" style="padding: 5px; width: 100%; resize: vertical;"></textarea>
     <br>
