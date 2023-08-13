@@ -295,7 +295,7 @@ footer a {
     </div>
     <div style="margin-bottom: 10px;">
         <label for="imgfundo" style="margin-right: 10px;">Imagem do Fundo:</label>
-        <input type="text" id="imgfundo" placeholder="Coloque a URL da Imagem Aqui" value="https://Coloque a URL da Imagem Aqui" style="padding: 5px; width: 400px;">
+        <input type="text" id="imgfundo" placeholder="Coloque a URL da Imagem Aqui" value="Coloque a URL da sua imagem de fundo aqui!" style="padding: 5px; width: 400px;">
     </div>
     <textarea id="conversa" cols="75" rows="10" style="padding: 5px; width: 100%; resize: vertical;"></textarea>
     <br>
